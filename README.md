@@ -1,4 +1,4 @@
-# Useful Rust Snippets
+# Rustful Snippets
 
 > A collection of handy Rust code snippets for common programming tasks.
 
