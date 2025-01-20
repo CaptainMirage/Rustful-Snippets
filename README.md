@@ -21,6 +21,5 @@ Clone the repo and copy what you need. Each snippet is self-contained in its own
 the reqs are written in the file
 
 ## License
-¯\\\_(ツ)_/¯
 
-Consider this code like a box of random LEGO pieces - use them to build something cool, or don't. No warranty!
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
